@@ -6,6 +6,8 @@ Nextcloud with Local SSL Using mkcert
 
 ![alt](./README_Assets/preview.png)
 
+![alt](./README_Assets/Local_SSL_Nextcloud.png)
+
 ## Client Setup
 
 <video width="100%" height="100%" controls>
