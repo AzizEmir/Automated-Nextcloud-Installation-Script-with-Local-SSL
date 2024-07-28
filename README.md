@@ -10,12 +10,14 @@ Nextcloud with Local SSL Using mkcert
 
 ## Client Setup
 
-<video width="100%" height="100%" controls>
-  <source src="https://www.youtube.com/watch?v=VPrBt8KuAi0" type="video/mp4">
-</video>
+<a href="https://www.youtube.com/watch?v=VPrBt8KuAi0" target="_blank">
+  <img src="https://img.youtube.com/vi/VPrBt8KuAi0/0.jpg" alt="Client Setup" style="width:100%; height:auto;">
+</a>
 
 ## Server Installation Process
 
-<video width="100%" height="100%" controls>
-  <source src="https://www.youtube.com/watch?v=zl4xx7vaaAw" type="video/mp4">
-</video>
+Tested Debian 12.6 Clean Intall
+
+<a href="https://www.youtube.com/watch?v=zl4xx7vaaAw" target="_blank">
+  <img src="https://img.youtube.com/vi/zl4xx7vaaAw/0.jpg" alt="Server Installation Process" style="width:100%; height:auto;">
+</a>
